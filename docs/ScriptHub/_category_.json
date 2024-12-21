@@ -1,0 +1,8 @@
+{
+  "label": "ScriptHub",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Every function linked to the ScriptHub API"
+  }
+}

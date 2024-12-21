@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksir_hurt_api_docs=self.webpackChunksir_hurt_api_docs||[]).push([[647],{7121:(s,e,r)=>{r.r(e),r.d(e,{default:()=>h});r(6540);var u=r(4164),a=r(1003),c=r(7559),t=r(2831),i=r(781),d=r(4848);function h(s){return(0,d.jsx)(a.e3,{className:(0,u.A)(c.G.wrapper.docsPages),children:(0,d.jsx)(i.A,{children:(0,t.v)(s.route.routes)})})}}}]);
